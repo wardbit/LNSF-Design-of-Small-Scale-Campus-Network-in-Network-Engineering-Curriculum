@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "b5dc07a28a8a6338",
+    "type": "split",
+    "children": [
+      {
+        "id": "253055f071f67a65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81b4aea9cd862fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "岭南师范学院网络工程课程设计——小型校园网的创建.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "岭南师范学院网络工程课程设计——小型校园网的创建"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26d762bf8c17ed79",
+    "type": "split",
+    "children": [
+      {
+        "id": "d248ca0bc1a1aae8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5d1165c9210d42b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3299d1d37de5bcae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "05b34c8661c80df9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "90b6cf1b690ba59c",
+    "type": "split",
+    "children": [
+      {
+        "id": "27243dce177d628f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "84dbfd52ba973464",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "岭南师范学院网络工程课程设计——小型校园网的创建.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "岭南师范学院网络工程课程设计——小型校园网的创建 的反向链接列表"
+            }
+          },
+          {
+            "id": "2b6109d1ec9c8cc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "岭南师范学院网络工程课程设计——小型校园网的创建.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "岭南师范学院网络工程课程设计——小型校园网的创建 的出链列表"
+            }
+          },
+          {
+            "id": "d09693e0e6d9fc3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "89181fa27dad30af",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "岭南师范学院网络工程课程设计——小型校园网的创建.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "岭南师范学院网络工程课程设计——小型校园网的创建 的大纲"
+            }
+          },
+          {
+            "id": "022f0ad127aa6cc6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "81b4aea9cd862fa7",
+  "lastOpenFiles": [
+    "README.md",
+    "岭南师范学院网络工程课程设计——小型校园网的创建.md",
+    "image.access/Pasted image 20250426180158.png",
+    "image.access/Pasted image 20250426180129.png",
+    "image.access/Pasted image 20250426180101.png",
+    "image.access/Pasted image 20250426180050.png",
+    "image.access/Pasted image 20250426180007.png",
+    "image.access/Pasted image 20250426180002.png",
+    "image.access/Pasted image 20250426175921.png",
+    "image.access/Pasted image 20250426175903.png",
+    "未命名",
+    "image.access/Pasted image 20250426173916.png",
+    "image.access/Pasted image 20250426173128.png",
+    "image.access",
+    "新建文件夹"
+  ]
+}
